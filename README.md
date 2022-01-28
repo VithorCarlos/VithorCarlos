@@ -5,15 +5,15 @@
 <a href="https://www.linkedin.com/in/vithor-carlos-santos-de-oliveira-ba9b91165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Apaixonado pela tecnologia e programação. Sempre buscando me aperfeiçoar cada vez mais na área de desenvolvimento e buscando a evolução contínua a cada dia.
+Passionate about technology and programming. Always looking to improve myself more and more in the area of development and seeking continuous evolution every day.
 
-Quero mudar a vida das pessoas através da programação. Gosto muito de agregar valor em meus projetos, gerar resultados, facilitar a vida as pessoas através da programação - isso é algo que me inspira bastante e eu me sinto muito bem em poder construir ou está participando de algo que vai agregar na vida das pessoas.
-Me amarrao na idéia de padrões de projetos e manter códigos organizados e limpos - é algo que me interesso em aprender e que facilitar o desenvolvimento e o entendimento do código.
+I want to change people's lives through programming. I really like to add value to my projects, generate results, make life easier as people through programming - this is something that inspires me a lot and I feel very good about being able to build or are participating in something that will add to people's lives.
+I'm tied to the idea of project patterns and clean code - it's keeping organized what I'm interested in learning and making code easier to develop and understand.
 
-Sigo me aperfeiçoando no Desenvolvimento Web e Mobile.
-Recentemente comecei os meus estudos com React Native e atualmente estou trabalhando em alguns projetos com essa linguagem.
+I keep improving myself in Web and Mobile Development.
+I recently started my studies with React Native and I'm currently working on some projects with this language.
 
-Atualmente estou estudando:
+I am currently studying:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/> 
 
