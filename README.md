@@ -2,7 +2,7 @@
 
 <div>
 <a href = "mailto:vithor.carlos3@gmail.com"><img src="https://img.shields.io/badge/vithor.carlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vithor-carlos-santos-de-oliveira-ba9b91165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/vithor-carlos-ba9b91165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 Passionate about technology and programming. Always looking to improve myself more and more in the area of development and seeking continuous evolution every day.
