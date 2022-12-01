@@ -5,22 +5,23 @@
 <a href="https://www.linkedin.com/in/vithor-carlos-ba9b91165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Passionate about technology and programming. Always looking to improve myself more and more in the area of development and seeking continuous evolution every day.
+I'm always looking to improve myself more and more in the development area and looking for continuous evolution every day.
 
-I want to change people's lives through programming. I really like to add value to my projects, generate results, make life easier as people through programming - this is something that inspires me a lot and I feel very good about being able to build or are participating in something that will add to people's lives.
-I'm tied to the idea of project patterns and clean code - it's keeping organized what I'm interested in learning and making code easier to develop and understand.
+I like to change people's lives through programming. I always try to add a lot of value to my projects, generate results, make people's lives easier through programming. Being able to build something that will add to people's lives, inspires me a lot.
 
-I keep improving myself in Web and Mobile Development.
-I recently started my studies with React Native and I'm currently working on some projects with this language.
+- Node.JS
+- JavaScript
+- TypeScript
+- React Native
+- React.js
+- Wordpress
+- Linux (Ubuntu)
 
-I am currently studying:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img 
+src="https://user-images.githubusercontent.com/44248390/205140542-e4cbcdfe-602c-446f-b778-9fa715232811.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/44248390/205140676-9fc6d148-c9c4-47c7-ac9e-64e81863844a.svg" width="30" height="30"/> <img 
+src="https://user-images.githubusercontent.com/44248390/205141270-62ae517e-80a5-453e-af4d-0dd1baef6a52.svg" width="30" height="30"/>
 
-<div>
-<a href="https://github.com/VithorCarlos">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=VithorCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
