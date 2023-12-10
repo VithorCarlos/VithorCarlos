@@ -2,20 +2,14 @@
 
 <div>
 <a href = "mailto:vithor.carlos3@gmail.com"><img src="https://img.shields.io/badge/vithor.carlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vithor-carlos-ba9b91165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/vithorcarlosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-I'm always looking to improve myself more and more in the development area and looking for continuous evolution every day.
+As a freelancer and developer, I had the opportunity to deliver several projects for real clients, helping to optimize business owners' results through the development of websites and applications. One of my available apps has over 1,000 downloads on the Play Store.
 
-I like to change people's lives through programming. I always try to add a lot of value to my projects, generate results, make people's lives easier through programming. Being able to build something that will add to people's lives, inspires me a lot.
+With my experience and knowledge as a developer, my mission goes beyond code: I seek to improve people's quality of life through technology, providing innovative solutions. I am always open to new challenges and opportunities that allow me to grow professionally.
 
-- Node.JS
-- JavaScript
-- TypeScript
-- React Native
-- React.js
-- Wordpress
-- Linux (Ubuntu)
+I am currently working as a developer in React Native, JavaScript, TypeScript and Node.js.
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img 
