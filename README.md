@@ -11,57 +11,88 @@ With my experience and knowledge as a developer, my mission goes beyond code: I 
 
 I am currently working as a developer in React.js, React Native, JavaScript, TypeScript and Node.js.
 
+
 🛠️ Core technologies:
 
 • HTML
+
 • CSS3
+
 • JavaScript 
+
 • TypeScript
+
 
 
 💻 Front-end development:
 
 • React.js
+
 • React Native
+
 • Next.js
+
 • Styled-Components
+
 • Tailwind
-• Gerenciador de estados globais: React Query, Context API, Zustand, Redux
+
+• Global State Manager: React Query, Context API, Zustand, Redux
 
 
 📱 Mobile development:
 
 • React Native
+
 • Expo
+
 • Android Studio
+
 • Xcode
+
 • Experiência com publicações de aplicativos
 
 
 🔙 Back-end development  (APIs):
 
 • Node.js
+
 • Prisma
+
 • Knex
+
 • PostGress
+
 • MySQL
+
 • SQLite
+
 • MongoDB
+
 • Firebase
 
 
 🧰 Other skills:
 
 • Realm.db
+
 • SOLID
+
 • React Hook Form & Zod & Yup
+
 • API Restfull
+
 • Figma 
+
 • Ui & Ux
+
 • Git & Github 
+
 • Metodologias ágeis 
+
 • Scrum
+
 • Notion & Jira
+
 • SEO
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img 
