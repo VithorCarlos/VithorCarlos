@@ -49,7 +49,7 @@ I am currently working as a developer in React.js, React Native, JavaScript, Typ
 
 • Xcode
 
-• Experiência com publicações de aplicativos
+• Experience with application publications
 
 
 🔙 Back-end development  (APIs):
@@ -87,7 +87,7 @@ I am currently working as a developer in React.js, React Native, JavaScript, Typ
 
 • Git & Github 
 
-• Metodologias ágeis 
+• Agile methodologies
 
 • Scrum
 
